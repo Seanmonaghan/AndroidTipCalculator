@@ -11,6 +11,7 @@ android {
     }
 
     defaultConfig {
+        vectorDrawables.useSupportLibrary = true
         applicationId "com.example.tipcalculatorandroid"
         minSdk 19
         targetSdk 32
